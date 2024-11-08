@@ -1,0 +1,43 @@
+p{
+    line-height: 10px;
+    text-align: justify;
+    color: black;
+    direction: ltr;
+    text-indent: 2%;
+}
+img.a{
+    margin-bottom: 60px;
+    
+}
+h2{
+    text-decoration-line: overline underline;
+    text-indent: 5%;
+    color: white;
+}
+body{
+    background-image: url(./images/moon.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0%;
+    overflow: scroll;
+}
+div.container{
+    margin-right: 30px;
+}
+ul.a{
+    list-style-type: circle;
+}
+ol.b{
+    list-style-type: square;
+}
+.pt{
+    background-color: blue;
+    margin: 30rem;
+    padding: 1rem;
+    color: white;
+    text-decoration-line: none;
+}
+p.x,p.y{
+    color: blueviolet;
+}

@@ -1,0 +1,26 @@
+.bottomleft{
+    position: absolute;
+    bottom: 5px;
+    left: 15px;
+}
+.topleft{
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+.bottomright{
+    position: absolute;
+    bottom: 5px;
+    right: 15px;
+}
+.topright{
+    position: absolute;
+    top: 5px;
+    right: 15px;
+}
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
